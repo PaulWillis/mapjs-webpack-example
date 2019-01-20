@@ -1,0 +1,117 @@
+{
+  "id": "root",
+  "formatVersion": 3,
+  "ideas": { 
+    "2": {
+      "title": "colors workasdf",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "yellow",
+          "id": 4,
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
+        },
+        "6": {
+          "title": "greenasdf",
+          "id": 7,
+          "ideas": {
+            "331": {
+              "title": "asdfasdvaserve",
+              "id": 4,
+              "ideas": {
+                "1a": {
+                  "title": "yellowwerbt",
+                  "id": 10,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            },
+            "2656": {
+              "title": "second \n in \n green",
+              "id": 9,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        },
+        "11": {
+          "title": "#761934",
+          "id": 5,
+          "attr": {
+            "style": {
+              "background": "#761934"
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "images",
+      "id": 21,
+      "attr": {
+        "position": [
+          -5,
+          186,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "above",
+          "id": 22,
+          "attr": {
+          }
+        },
+        "2": {
+          "title": "below",
+          "attr": { 
+          },
+          "id": 29
+        },
+        "-1": {
+          "title": "left",
+          "attr": { 
+          },
+          "id": 28,
+          "ideas": {}
+        }
+      }
+    }
+  },
+  "attr": {},
+  "title": "text options",
+  "links": [
+    {
+      "ideaIdFrom": 22,
+      "ideaIdTo": 5,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "solid",
+          "arrow": true
+        }
+      }
+    }
+  ]
+}
